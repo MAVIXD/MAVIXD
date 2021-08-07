@@ -1,4 +1,4 @@
-![](https://i.imgur.com/fOfEFH6.gif)
+![](https://imgur.com/5PHCAC9.gif)
 ## Om mig 🧐
 
 Hey, jeg er en 15-årig dreng, der bor i Nordsjælland. Jeg ejer FiveM serveren, Nordic Network.
