@@ -9,9 +9,6 @@ Jeg er ejer og udviker af FiveM serveren, Nordic Network. Serveren betyder alt f
 - [Hjemmeside][website]
 - [Server IP][serverip]
 
-## Kontakt mig 📲
-Du er altid mere velkommen til at kontakte mig på discord.
-
 - Discord: MAVI#1132
 
 </details>
